@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es2020",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "moduleResolution": "bundler",
+        "noEmit": true,
+        "jsx": "react-jsx",
+        "strict": true,
+        "checkJs": false,
+        "skipLibCheck": true,
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        }
+    },
+    "include": [
+        "src"
+    ]
+}
