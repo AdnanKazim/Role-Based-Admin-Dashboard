@@ -34,7 +34,7 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/youruser/admin-dashboard.git
+   git clone https://github.com/AdnanKazim/Role-Based-Admin-Dashboard.git
    ```
 
 2. Navigate to the project directory:
